@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">not_one_activity</string>
+    <string name="go_to_google_com">go to google.com</string>
+    <string name="send_to_2_activity">send_to_2_activity</string>
+    <string name="enter_value">Enter value</string>
+    <string name="text_1">Рассчитайте ваш доход</string>
+    <string name="text_2">Сумма открытия счета</string>
+    <string name="text_3">Сумма счета не ограничена</string>
+    <string name="text_4">Ежемесячное пополнение</string>
+    <string name="еуче_5">На срок</string>
+    <string name="text_5">На срок</string>
+    <string name="text_7">Срок счета не ограничен</string>
+    <string name="text_8">Сумма пополнения не ограничена</string>
+    <string name="text_2_1">Ставка в год</string>
+    <string name="text_2_2">0 %</string>
+    <string name="text_2_3">Доход по счету</string>
+    <string name="text_2_4">0 р</string>
+    <string name="text_2_5">Накоплю к 25 ноября 2022</string>
+    <string name="text_2_6">0 р</string>
+    <string name="seek_1">100000</string>
+    <string name="seek_2">1</string>
+    <string name="seek_3">50000</string>
+    <string name="button_done">готово</string>
+    <string name="percent">3%</string>
+</resources>
